@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lullaby",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-13T09:48:45.484222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lullaby Of Woe",
+      "artist": "Marcin Przybyłowicz",
+      "has_synced": true,
+      "path": "select/01_Lullaby_Of_Woe_Marcin_Przybyłowicz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Whiskey Lullaby",
+      "artist": "Brad Paisley feat. Alison Krauss",
+      "has_synced": true,
+      "path": "select/02_Whiskey_Lullaby_Brad_Paisley_feat._Alison_Krauss.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whiskey Lullaby",
+      "artist": "Alison Krauss",
+      "has_synced": true,
+      "path": "select/03_Whiskey_Lullaby_Alison_Krauss.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whiskey Lullaby",
+      "artist": "Brad Paisley featuring Alison Krauss",
+      "has_synced": true,
+      "path": "select/04_Whiskey_Lullaby_Brad_Paisley_featuring_Alison_Krauss.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whiskey Lullaby (Featuring Alison Krauss)",
+      "artist": "Alison Krauss",
+      "has_synced": true,
+      "path": "select/05_Whiskey_Lullaby_(Featuring_Alison_Krauss)_Alison_Krauss.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "摇篮曲(Lullaby)",
+      "artist": "陶喆",
+      "has_synced": true,
+      "path": "select/06_摇篮曲(Lullaby)_陶喆.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hunter's Lullaby",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/07_Hunter's_Lullaby_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lullaby",
+      "artist": "Liam Finn",
+      "has_synced": true,
+      "path": "select/08_Lullaby_Liam_Finn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lullaby",
+      "artist": "Loudon Wainwright III",
+      "has_synced": true,
+      "path": "select/09_Lullaby_Loudon_Wainwright_III.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Furnace Room Lullaby",
+      "artist": "Neko Case",
+      "has_synced": false,
+      "path": "select/10_Furnace_Room_Lullaby_Neko_Case.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lullaby",
+      "artist": "James",
+      "has_synced": false,
+      "path": "select/11_Lullaby_James.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Autumn Lullaby",
+      "artist": "Bridget St. John",
+      "has_synced": false,
+      "path": "select/12_Autumn_Lullaby_Bridget_St._John.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Digital Suicide (Lullaby)",
+      "artist": "Heartsrevolution",
+      "has_synced": true,
+      "path": "select/13_Digital_Suicide_(Lullaby)_Heartsrevolution.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lullaby",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/14_Lullaby_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brahms Lullaby",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/15_Brahms_Lullaby_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Courtyard Lullaby",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/16_Courtyard_Lullaby_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lullaby",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_Lullaby_三浦_大知.txt"
+    }
+  ]
+}
